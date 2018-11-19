@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26116" started-at="2018-11-19T11:01:54Z" finished-at="2018-11-19T11:02:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26116" started-at="2018-11-19T11:01:54Z" finished-at="2018-11-19T11:02:20Z">
+      <class name="Selenium.FlipkartPOM">
+        <test-method status="PASS" signature="openFlipkart()[pri:0, instance:Selenium.FlipkartPOM@28feb3fa]" name="openFlipkart" is-config="true" duration-ms="7595" started-at="2018-11-19T16:31:54Z" finished-at="2018-11-19T16:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFlipkart -->
+        <test-method status="PASS" signature="takeScreenShot()[pri:0, instance:Selenium.FlipkartPOM@28feb3fa]" name="takeScreenShot" duration-ms="18509" started-at="2018-11-19T16:32:01Z" description="REquirement 10: Taking screen shot" finished-at="2018-11-19T16:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Selenium.FlipkartPOM@28feb3fa]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2018-11-19T16:32:20Z" finished-at="2018-11-19T16:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Selenium.FlipkartPOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
